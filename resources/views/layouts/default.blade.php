@@ -5,6 +5,7 @@
     <link rel="stylesheet" href="/css/app.css">
 </head>
 <body>
+@include('shared._messages')
 @include('layouts._header')
 
 <div class="container">
