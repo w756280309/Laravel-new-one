@@ -12,7 +12,7 @@ composer：1.7.2<br>
 1.首先确认composer Git 已经备好 <br>
 然后clone下来 ： 
 ```
-git clone
+git clone git@github.com:w756280309/Laravel-new-one.git
 ```
 2.安装依赖
 ```
