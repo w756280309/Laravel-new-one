@@ -21,15 +21,15 @@
         </div>
     @else
         <div class="jumbotron">
-            <h1>Hello Laravel</h1>
+            <h1>EveryDay Is A Good Day！~</h1>
             <p class="lead">
-                你现在所看到的是 <a href="https://laravel-china.org/laravel-tutorial/5.1">小小微博应用</a> 的项目主页。
+                你现在所看到的是 <a href="http://noirot.top/signup">微博应用</a> 。
             </p>
             <p>
                 一切，将从这里开始。
             </p>
             <p>
-                <a class="btn btn-lg btn-success" href="{{ route('signup') }}" role="button">现在注册</a>
+                <a class="btn btn-lg btn-success" href="{{ route('signup') }}" role="button">点击注册</a>
             </p>
         </div>
     @endif
